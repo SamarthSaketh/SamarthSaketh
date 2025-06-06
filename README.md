@@ -1,5 +1,12 @@
-# 💫 About Me:
-i am currently learning C#, .NET Framework<br>i am doing internship at eMudhra
+## 💫 About Me
+
+- 👨‍💻 I’m a passionate full-stack developer skilled in **Python**, **C#**, **.NET**, **JavaScript**, and modern frontend tools.
+- 💼 Currently an **Intern at eMudhra**, working on real-world projects using the **.NET ecosystem**.
+- 📚 Actively learning **C#**, **.NET 6 Web API**, and **SQL Server**.
+- 🤖 Exploring **Machine Learning** and **Generative AI** technologies.
+- 🌐 I enjoy building full-stack web apps, REST APIs, and deploying them using platforms like **Render**, **Vercel**, and **Netlify**.
+- 🚀 Always curious and driven to learn new technologies and solve real-world problems through code.
+
 
 
 ## 🌐 Socials:
