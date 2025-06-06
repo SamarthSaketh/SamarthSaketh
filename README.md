@@ -4,7 +4,7 @@
 - 💼 Currently an **Intern at eMudhra**, working on real-world projects using the **.NET ecosystem**.
 - 📚 Actively learning **C#**, **.NET 6 Web API**, and **SQL Server**.
 - 🤖 Exploring **Machine Learning** and **Generative AI** technologies.
-- 🌐 I enjoy building full-stack web apps, REST APIs, and deploying them using platforms like **Render**, **Vercel**, and **Netlify**.
+- 🌐 I enjoy building full-stack web apps, REST APIs. 
 - 🚀 Always curious and driven to learn new technologies and solve real-world problems through code.
 
 
@@ -67,13 +67,6 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### ☁️ Deployment Platforms
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
