@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 - 👨‍💻 I’m a passionate full-stack developer skilled in **Python**, **C#**, **.NET**, **JavaScript**, and modern frontend tools.
-- 💼 Currently an **Intern at eMudhra**, working on real-world projects using the **.NET ecosystem**.
+- 💼 Currently an **Junior Software Developer at eMudhra**, working on real-world projects using the **.NET ecosystem**.
 - 📚 Actively learning **C#**, **.NET 6 Web API**, and **SQL Server**.
 - 🤖 Exploring **Machine Learning** and **Generative AI** technologies.
 - 🌐 I enjoy building full-stack web apps, REST APIs.
