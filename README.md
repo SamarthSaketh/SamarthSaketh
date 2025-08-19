@@ -1,96 +1,98 @@
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=BEYNO&size=32&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vuppaladhadium+Sai+Samarth+Saketh;Full-Stack+Developer;+%7C+Python+%7C+Enthusiast;Always+Learning+%26+Building" />
+</p>
+
+---
+
 ## 💫 About Me
-
-- 👨‍💻 I’m a passionate full-stack developer skilled in **Python**, **C#**, **.NET**, **JavaScript**, and modern frontend tools.
-- 💼 Currently an **Junior Software Developer at eMudhra**, working on real-world projects using the **.NET ecosystem**.
-- 📚 Actively learning **C#**, **.NET 6 Web API**, and **SQL Server**.
-- 🤖 Exploring **Machine Learning** and **Generative AI** technologies.
-- 🌐 I enjoy building full-stack web apps, REST APIs.
-- 🚀 Always curious and driven to learn new technologies and solve real-world problems through code.
-
----
-
-## 🔍 Current Focus
-
-- 🌱 Learning: C#, ASP.NET Web API, SQL Server  
-- 🛠️ Projects: Full-stack .NET apps with React and SQL  
-- 📘 Exploring: JWT Auth, Generative AI, Deployment (Render/Vercel)
+- 👨‍💻 Passionate **Full-Stack Developer** skilled in **Python**, **C#**, **.NET**, and **JavaScript**  
+- 💼 Currently a **Junior Software Developer at eMudhra**, building enterprise-grade apps  
+- 📚 Exploring **C# 12**, **ASP.NET Web API**, **SQL Server**, and **Microservices**  
+- 🤖 Interested in **Machine Learning**, **Generative AI**, and Automation  
+- 🌐 Love building scalable **Web Apps, APIs, and interactive UIs**  
+- 🚀 Curious, adaptive, and always solving problems with code  
 
 ---
 
-## 🌐 Socials
+## 🔭 Current Focus
+- 🌱 Learning: **ASP.NET Web API**, **Entity Framework**, **SQL Server**  
+- 🛠️ Building: Full-stack .NET apps with **React & SQL**  
+- 📘 Exploring: **JWT Auth**, **Generative AI**, **Cloud Deployment (Azure, Render, Vercel)**  
 
-<p align="left"> <a href="https://www.linkedin.com/in/vuppaladhadium-sai-samarth-saketh-036679201/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:saketh0329@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </p>
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vuppaladhadium-sai-samarth-saketh-036679201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saketh0329@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SamarthSaketh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=keras" alt="Keras" title="Keras" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+</p>
 
-### 🧠 Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🧩 Frameworks & Libraries
+## 📊 GitHub Stats & Activity
 
-#### Backend
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthSaketh&theme=tokyonight&hide_border=false" height="160"/>
+</p>
 
-#### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="views" />
+  <img src="https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID" alt="hits" />
+</p>
 
----
-
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
----
-
-### 🔐 Authentication & API
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
-
-### 🧠 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🛠️ Productivity Tools
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=SamarthSaketh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SamarthSaketh&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SamarthSaketh&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
 
 
 
