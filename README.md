@@ -1,4 +1,3 @@
-<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=BEYNO&size=32&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vuppaladhadium+Sai+Samarth+Saketh;Full-Stack+Developer;+%7C+Python+%7C+Enthusiast;Always+Learning+%26+Building" />
 </p>
@@ -55,14 +54,18 @@
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=keras" alt="Keras" title="Keras" />
   <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" title="Scikit-learn" />
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" title="Keras" width="48" height="48"/>
 </p>
+
+
+---
+
 
 
 ---
@@ -77,22 +80,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="views" />
   <img src="https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID" alt="hits" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
+
+
+
+<!-- Snake contribution -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
-
 
 
 
