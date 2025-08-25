@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=BEYNO&size=32&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vuppaladhadium+Sai+Samarth+Saketh;Full-Stack+Developer;+%7C+Python+Enthusiast+%7C;Always+Learning+%26+Building" />
 </p>
@@ -66,31 +67,31 @@
 
 ---
 
-
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthSaketh&theme=tokyonight&hide_border=false" height="160"/>
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&show_icons=true&count_private=true&hide_border=false&title_color=FF6EC7&text_color=FFFFFF&icon_color=7F3FBF&bg_color=0d1117" height="170"/>
+  
+  <!-- GitHub Streak (Fixed alternative) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SamarthSaketh&theme=tokyonight&hide_border=false&background=0d1117&ring=FF6EC7&fire=FF0080&currStreakLabel=7F3FBF" height="170"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
-</p>
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&layout=compact&hide_border=false&title_color=FF6EC7&text_color=FFFFFF&bg_color=0d1117" height="150"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&bg_color=0d1117&color=FFFFFF&line=7F3FBF&point=FF6EC7&area=true&hide_border=true" />
+</p>  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="views" />
-  <img src="https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID" alt="hits" />
-</p>
----
-
-
+  <!-- Profile Views + Hits -->
+  <img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+  <img src="https://hit.yhype.me/github/profile?user_id=148037339" />
+</p>  
 
 <!-- Snake contribution -->
 <p align="center">
