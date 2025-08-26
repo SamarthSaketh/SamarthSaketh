@@ -72,10 +72,6 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&show_icons=true&count_private=true&hide_border=false&title_color=FF6EC7&text_color=FFFFFF&icon_color=7F3FBF&bg_color=0d1117" height="170"/>
-  
-  <!-- GitHub Streak (Fixed alternative) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SamarthSaketh&theme=tokyonight&hide_border=false&background=0d1117&ring=FF6EC7&fire=FF0080&currStreakLabel=7F3FBF" height="170"/>
-</p>  
 
 <p align="center">
   <!-- Languages -->
