@@ -27,19 +27,38 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 ## 🛠️ Technical Skills
 
 ### Languages
-**C# · JavaScript · Python · HTML · CSS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,python,html,css" alt="C#, JavaScript, Python, HTML, CSS" />
+</p>
 
 ### Frontend
-**React · Blazor · Razor Pages · Bootstrap · React Native · Expo**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,blazor,bootstrap,reactnative,expo" alt="React, Blazor, Bootstrap, React Native, Expo" />
+</p>
 
 ### Backend
-**.NET · ASP.NET MVC · Web API · Node.js · Express**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt=".NET, Node.js, Express" />
+</p>
+
+<p>
+  <strong>ASP.NET MVC · Web API</strong>
+</p>
 
 ### Databases
-**SQL Server · MongoDB**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mongodb" alt="SQL Server, MongoDB" />
+</p>
 
 ### Tools & Platforms
-**Git · GitHub · Postman · VS Code · Firebase · Vercel · n8n**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase,vercel,n8n" alt="Git, GitHub, Postman, VS Code, Firebase, Vercel, n8n" />
+</p>
 
 ---
 
