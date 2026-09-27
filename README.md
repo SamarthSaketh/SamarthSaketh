@@ -8,8 +8,6 @@ Building production-oriented software, developer tools, and practical AI-powered
 
 <p>
   <a href="https://vsssaketh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vsssaketh.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/SamarthSaketh"><img src="https://img.shields.io/github/followers/SamarthSaketh?style=flat-square&label=Followers&logo=github" /></a>
-  <a href="https://github.com/SamarthSaketh?tab=repositories"><img src="https://img.shields.io/github/repos/SamarthSaketh?style=flat-square&label=Public%20Repos" /></a>
   <a href="https://www.linkedin.com/in/vuppaladhadium-sai-samarth-saketh"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -106,38 +104,38 @@ My primary engineering focus is the **.NET ecosystem**, while I also work across
 ## 📌 Featured Work
 
 ### 📚 StudySync
-**Learning platform · Full-Stack · Web · Android**
+**🔒 Private · Learning Platform · Full-Stack · Web · Android**
 
 A learning platform designed around organizing and accessing study documents and video resources.
 
 **Exploring:** scalable storage · streaming/downloads · authentication · web + mobile architecture
 
-[View repository →](https://github.com/SamarthSaketh/StudySync)
+[Live project →](https://vsssaketh.vercel.app)
 
 ---
 
 ### 🕉️ Japa Counter
-**React Native · Expo · MongoDB · Android**
+**🔒 Private · React Native · Expo · MongoDB · Android**
 
 A mobile application for mantra/japa counting with profiles, targets, sessions, progress tracking and a mobile-first experience.
 
-[View repository →](https://github.com/SamarthSaketh/Japa-Counter)
+[Live project →](https://japacounter-app.vercel.app)
 
 ---
 
 ### 🤖 AI & Automation Experiments
-**LLMs · AI Agents · APIs · n8n**
+**🔒 Private · LLMs · AI Agents · APIs · n8n**
 
 Building practical experiments around AI models, autonomous workflows, developer tooling and automation.
 
 ---
 
 ### 💻 30DaysOfDevFusion
-**Programming · Development · Problem Solving**
+**🔒 Private · Programming · Development · Problem Solving**
 
 A hands-on development journey covering different technologies and implementation patterns.
 
-[Explore GitHub →](https://github.com/SamarthSaketh)
+[GitHub profile →](https://github.com/SamarthSaketh)
 
 ---
 
