@@ -184,8 +184,6 @@ Hands-on programming and development practice covering different technologies an
   </a>
 </p>
 
----
-
 <div align="center">
 
 ### 💡 Build. Learn. Automate. Improve. Repeat.
