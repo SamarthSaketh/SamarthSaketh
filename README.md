@@ -28,37 +28,62 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,python,html,css" alt="C#, JavaScript, Python, HTML, CSS" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br><sub><b>C#</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS</b></sub></td>
+</tr>
+</table>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,blazor,bootstrap,reactnative,expo" alt="React, Blazor, Bootstrap, React Native, Expo" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub><b>React</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=blazor" width="50"/><br><sub><b>Blazor</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br><sub><b>Bootstrap</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=reactnative" width="50"/><br><sub><b>React Native</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=expo" width="50"/><br><sub><b>Expo</b></sub></td>
+</tr>
+</table>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt=".NET, Node.js, Express" />
-</p>
-
-<p>
-  <strong>ASP.NET MVC · Web API</strong>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br><sub><b>.NET</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br><sub><b>ASP.NET MVC</b></sub></td>
+<td align="center">🔗<br><sub><b>Web API</b></sub></td>
+</tr>
+</table>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mongodb" alt="SQL Server, MongoDB" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlserver" width="50"/><br><sub><b>SQL Server</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub></td>
+</tr>
+</table>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase,vercel,n8n" alt="Git, GitHub, Postman, VS Code, Firebase, Vercel, n8n" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=n8n" width="50"/><br><sub><b>n8n</b></sub></td>
+</tr>
+</table>
 
 ---
 
