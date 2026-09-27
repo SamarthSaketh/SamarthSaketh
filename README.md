@@ -109,26 +109,25 @@ I'm a **Junior Software Developer at eMudhra** with a strong interest in full-st
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamarthSaketh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SamarthSaketh&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" width="49%" />
 </p>
 
 ### 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthSaketh&theme=tokyo-night&hide_border=true&area=true&custom_title=Samarth%20Saketh%20-%20GitHub%20Contribution%20Activity" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamarthSaketh&theme=github_dark" width="100%" />
 </p>
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamarthSaketh&theme=github_dark&utcOffset=5.5" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamarthSaketh&theme=github_dark" width="49%" />
 </p>
 
 ---
