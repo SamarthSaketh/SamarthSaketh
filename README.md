@@ -190,7 +190,7 @@ Hands-on programming and development practice covering different technologies an
   <a href="https://vsssaketh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-7F3FBF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vuppaladhadium-sai-samarth-saketh-036679201/">
+  <a href="https://www.linkedin.com/in/vuppaladhadium-sai-samarth-saketh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saketh0329@gmail.com">
