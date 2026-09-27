@@ -30,11 +30,11 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/csharp" width="50"/><br><sub><b>C#</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/javascript" width="50"/><br><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/python" width="50"/><br><sub><b>Python</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/html5" width="50"/><br><sub><b>HTML</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/csharps" width="50"/><br><sub><b>CSS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br><sub><b>C#</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS</b></sub></td>
 </tr>
 </table>
 
@@ -42,11 +42,11 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/react" width="50"/><br><sub><b>React</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/blazor" width="50"/><br><sub><b>Blazor</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/bootstrap" width="50"/><br><sub><b>Bootstrap</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/reactnative" width="50"/><br><sub><b>React Native</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/expo" width="50"/><br><sub><b>Expo</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub><b>React</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/blazor.svg" width="50"/><br><sub><b>Blazor</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br><sub><b>Bootstrap</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=reactnative" width="50"/><br><sub><b>React Native</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/expo.svg" width="50"/><br><sub><b>Expo</b></sub></td>
 </tr>
 </table>
 
@@ -54,10 +54,10 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/dotnet" width="50"/><br><sub><b>.NET</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs" width="50"/><br><sub><b>Node.js</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/express" width="50"/><br><sub><b>Express</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/dotnet" width="50"/><br><sub><b>ASP.NET MVC</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br><sub><b>.NET</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br><sub><b>ASP.NET MVC</b></sub></td>
 <td align="center">🔗<br><sub><b>Web API</b></sub></td>
 </tr>
 </table>
@@ -66,8 +66,8 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="50"/><br><sub><b>SQL Server</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/mongodb" width="50"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" width="50"/><br><sub><b>SQL Server</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub></td>
 </tr>
 </table>
 
@@ -75,13 +75,13 @@ I hold a **B.Tech in Computer Science and Engineering** and primarily work with 
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/git" width="50"/><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/github" width="50"/><br><sub><b>GitHub</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/postman" width="50"/><br><sub><b>Postman</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode" width="50"/><br><sub><b>VS Code</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/firebase" width="50"/><br><sub><b>Firebase</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel" width="50"/><br><sub><b>Vercel</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/n8n" width="50"/><br><sub><b>n8n</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/n8n.svg" width="50"/><br><sub><b>n8n</b></sub></td>
 </tr>
 </table>
 
