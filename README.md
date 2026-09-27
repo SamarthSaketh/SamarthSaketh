@@ -13,6 +13,9 @@
 <a href="https://github.com/SamarthSaketh?tab=repositories">
   <img src="https://img.shields.io/github/repos/SamarthSaketh?style=for-the-badge&label=Public%20Repos" />
 </a>
+<a href="https://github.com/SamarthSaketh?tab=stars">
+  <img src="https://img.shields.io/github/stars/SamarthSaketh?style=for-the-badge&label=Stars" />
+</a>
 
 </div>
 
@@ -20,16 +23,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Junior Software Developer at eMudhra** with a strong interest in full-stack development, backend engineering, AI-powered applications, and automation.
+I'm a **Junior Software Developer at eMudhra** focused on building practical, maintainable software across backend, frontend, AI and automation.
 
-- 💼 Building and maintaining **enterprise-grade software**
-- ⚙️ Developing with **C#, .NET, ASP.NET, Web API, Razor Pages & Blazor**
-- ⚛️ Building modern interfaces using **React, JavaScript, HTML, CSS & Bootstrap**
-- 🗄️ Working with **SQL Server, MongoDB & REST APIs**
-- 🤖 Exploring **Generative AI, AI agents, LLM-powered tools & automation**
-- 🔄 Experimenting with **n8n and workflow automation**
-- ☁️ Learning more about **cloud deployment, self-hosting & scalable architectures**
-- 🚀 Focused on writing software that is practical, maintainable and useful
+- 💼 Enterprise application development
+- ⚙️ C#, .NET, ASP.NET, Web API, Razor Pages & Blazor
+- ⚛️ React, JavaScript, HTML, CSS & Bootstrap
+- 🗄️ SQL Server, MongoDB & REST APIs
+- 🤖 Generative AI, AI agents and LLM-powered tools
+- 🔄 n8n and workflow automation
+- ☁️ Cloud deployment, self-hosting and scalable architectures
+- 🧠 Always learning, experimenting and improving
 
 ---
 
@@ -62,28 +65,32 @@ I'm a **Junior Software Developer at eMudhra** with a strong interest in full-st
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏗️ Full-Stack Engineering
+
 - .NET + React applications
-- REST API design
+- REST API architecture
 - Authentication & authorization
-- Database-driven applications
-- Clean and maintainable architecture
+- Database-driven systems
+- Clean and maintainable code
+- Production-oriented development
 
 </td>
 <td width="50%">
 
 ### 🤖 AI & Automation
+
 - AI agents
-- Generative AI applications
-- LLM-powered developer tools
-- n8n workflow automation
+- LLM-powered applications
+- Developer automation
+- n8n workflows
 - AI-assisted development
+- Local and cloud AI experimentation
 
 </td>
 </tr>
@@ -93,18 +100,52 @@ I'm a **Junior Software Developer at eMudhra** with a strong interest in full-st
 
 ## 🌟 Featured Projects
 
-| Project | What I'm Building |
-|---|---|
-| 📚 **StudySync** | A learning platform for managing and accessing study documents and video resources |
-| 🕉️ **Japa Counter** | An Android application for mantra/japa counting, targets, profiles and progress tracking |
-| 🤖 **AI Agent Projects** | Experiments with AI models, agents, automation and developer workflows |
-| 💻 **30DaysOfDevFusion** | Hands-on development and programming practice |
+<table>
+<tr>
+<td width="50%">
 
-> 🔎 More projects and experiments are available on my GitHub profile and portfolio.
+### 📚 StudySync
+
+Learning platform focused on organizing and accessing study documents and video resources.
+
+**Focus:** Full-stack development · Storage · Web · Android
+
+</td>
+<td width="50%">
+
+### 🕉️ Japa Counter
+
+Android application for mantra/japa counting, targets, profiles and progress tracking.
+
+**Focus:** React Native · Expo · MongoDB · Authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Agent Projects
+
+Experiments with AI models, agents, automation, developer workflows and practical AI applications.
+
+**Focus:** LLMs · Agents · APIs · n8n
+
+</td>
+<td width="50%">
+
+### 💻 30DaysOfDevFusion
+
+Hands-on programming and development practice covering different technologies and implementation patterns.
+
+**Focus:** Development · Problem Solving · Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 ### 🔥 Contribution Streak
 
@@ -132,14 +173,17 @@ I'm a **Junior Software Developer at eMudhra** with a strong interest in full-st
 
 ---
 
-## 📌 GitHub Profile
+## 🏆 GitHub Profile
 
 <p align="center">
   <a href="https://github.com/SamarthSaketh?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/SamarthSaketh?tab=stars">
-    <img src="https://img.shields.io/badge/My%20GitHub%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/SamarthSaketh">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -176,8 +220,8 @@ I'm a **Junior Software Developer at eMudhra** with a strong interest in full-st
 
 <div align="center">
 
-### 💡 *Build. Learn. Automate. Improve. Repeat.*
+### 💡 Build. Learn. Automate. Improve. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SamarthSaketh&label=Profile%20Views&style=for-the-badge" />
 
 </div>
