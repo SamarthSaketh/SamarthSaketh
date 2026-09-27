@@ -7,15 +7,6 @@
 <a href="https://vsssaketh.vercel.app">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-vsssaketh.vercel.app-7F3FBF?style=for-the-badge" />
 </a>
-<a href="https://github.com/SamarthSaketh">
-  <img src="https://img.shields.io/github/followers/SamarthSaketh?style=for-the-badge&label=Followers" />
-</a>
-<a href="https://github.com/SamarthSaketh?tab=repositories">
-  <img src="https://img.shields.io/github/repos/SamarthSaketh?style=for-the-badge&label=Public%20Repos" />
-</a>
-<a href="https://github.com/SamarthSaketh?tab=stars">
-  <img src="https://img.shields.io/github/stars/SamarthSaketh?style=for-the-badge&label=Stars" />
-</a>
 
 </div>
 
@@ -153,12 +144,6 @@ Hands-on programming and development practice covering different technologies an
   <img src="https://streak-stats.demolab.com/?user=SamarthSaketh&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarthSaketh&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaketh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" width="49%" />
-</p>
 
 ### 📅 Contribution Activity
 
