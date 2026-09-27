@@ -155,10 +155,6 @@ Hands-on programming and development practice covering different technologies an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamarthSaketh&theme=github_dark&utcOffset=5.5" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamarthSaketh&theme=github_dark" width="49%" />
 </p>
-
----
-
-
 ---
 
 ## 🌐 Portfolio
