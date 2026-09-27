@@ -158,19 +158,6 @@ Hands-on programming and development practice covering different technologies an
 
 ---
 
-## 🏆 GitHub Profile
-
-<p align="center">
-  <a href="https://github.com/SamarthSaketh?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/SamarthSaketh?tab=stars">
-    <img src="https://img.shields.io/badge/View%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/SamarthSaketh">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
